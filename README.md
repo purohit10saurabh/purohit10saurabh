@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purohit10saurabh
-- 👀 I’m a researcher interested in machine learning and its math. 
+- 👀 I’m a researcher interested in machine learning and its math
 - 💞️ Feel free to reach out to me via email- *my_github_username*[at]gmail.com
 
 <!---
