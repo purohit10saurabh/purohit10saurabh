@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh Purohit, an AI researcher/engineer having worked at Microsoft Research, Generative AI startup, Adobe, Goldman Sachs.
+- 👋 Hi, I’m Saurabh Purohit, an AI researcher/engineer previously at Microsoft Research, Generative AI startup, Adobe, Goldman Sachs.
 - 💞️ Feel free to reach out to me via email- *my_github_username*[at]gmail.com
 
 <!---
