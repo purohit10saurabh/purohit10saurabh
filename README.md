@@ -1,10 +1,10 @@
 # Saurabh Purohit
 
-**Math and Machine Learning**
+**Creating beneficial AI**
 
 ---
 
-I am a math graduate with machine learning experience at **Adobe**, **Rephrase.ai**, **Microsoft Research**, and **Goldman Sachs**.
+I am a math graduate with machine learning experience at **startups**, **Adobe**, **Rephrase.ai**, **Microsoft Research** and **Goldman Sachs**. I've also published a patent and research paper.
 
 ### Links:
 * **[Homepage](https://purohit10saurabh.github.io)**
